@@ -5,5 +5,3 @@ These days I build AI and agent tooling for the company I work at.
 Laravel still has my affection, but Go (Echo) and Svelte are what I'm most into right now.
 
 I can still do [the splits](split.png).
-
-September 2026
